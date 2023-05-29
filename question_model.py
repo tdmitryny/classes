@@ -4,5 +4,5 @@ class Question:
             self.answer = answer
 
 
-ques = Question("Test?", "What")
+ques = Question()
 print(ques.text)
