@@ -5,4 +5,3 @@ class Question:
 
 
 ques = Question()
-print(ques.text)
